@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaulGonzo
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in codding
 - 🌱 I’m currently learning C++ 
 
